@@ -10,11 +10,13 @@ Customer Review Data: The project includes a dataset containing customer reviews
 
 Interactive Dashboard: The Tableau dashboard allows users to explore the data dynamically through interactive filters. Users can filter by country, aircraft, travel type, and other relevant factors to analyze customer ratings.
 
-Visualizations: The dashboard includes a variety of visualizations to represent customer ratings and trends. Some of the key visuals represented include:
+**Visualizations:**
+
+The dashboard includes a variety of visualizations to represent customer ratings and trends. Some of the key visuals represented include:
 
 Rating by Country: A map showing the average rating of British Airways by country.
-Rating by Aircraft: A bar chart or scatter plot showing the average rating of British Airways by aircraft type.
-Rating by Travel Type: A pie chart or bar chart showing the distribution of ratings by travel type (e.g., economy, business, first class).
+Rating by Aircraft: A bar chart showing the average rating of British Airways by aircraft type.
+Rating by Travel Type: A bar chart showing the distribution of ratings by travel type (e.g., economy, business, first class).
 
 **Usage**
 
